@@ -1,3 +1,5 @@
+print("test!!!!!!!!!")
+
 class Vehicle:
 
     FUEL_PER_DIST = None
@@ -27,6 +29,3 @@ if __name__ == '__main__':
     print(c.fuel)
     c.move(10)
     print(c.fuel)
-
-
-
