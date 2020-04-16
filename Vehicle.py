@@ -1,3 +1,10 @@
+<<<<<<< Updated upstream
+=======
+print("test!!!!!!!!!")
+print("test round 2")
+
+
+>>>>>>> Stashed changes
 class Vehicle:
 
     FUEL_PER_DIST = None
